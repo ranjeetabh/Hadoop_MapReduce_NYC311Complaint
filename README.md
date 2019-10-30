@@ -17,9 +17,11 @@ This project aims to process NYC 311 Complaints data and answer some insightful 
   - Street Condition
   - Illegal Parking
   
-Answer: 	    "Count of Noise_Complaints":  			1771120
-		    "Count of Illegal Parking Complaints":		561212
-		    "Count of Street Condition Complaints":		434132
+Answer: 	    
+
+- "Count of Noise_Complaints":  			1771120
+- "Count of Illegal Parking Complaints":		561212
+- "Count of Street Condition Complaints":		434132
         
 2) For the year 2017, for each quarter (Jan-Mar, April-June, July-Sept, Oct-Dec):
 
