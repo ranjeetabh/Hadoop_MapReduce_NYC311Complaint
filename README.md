@@ -10,7 +10,7 @@ This directory consists of the following files:
 
 
 
-This project aims to process NYC 311 Complaints data and answer some insightful questions from the same. Hadoop MapReduce software framework is used to read and extract information from the input file. Python scripts are executed in Amazon EC2 hadoop cluster. Input can be accessed from (https://pgarias-bucket-cloud.s3.us-east-2.amazonaws.com/311_Service_Requests_from_2015_to_Present.csv). The following details are extracted from the file post processing:
+This project aims to process NYC 311 Complaints data and answer some insightful questions from the same. Hadoop MapReduce software framework is used to read and extract information from the input file. Python scripts are executed in Amazon EC2 hadoop cluster. Input file sized 5.9GB can be accessed from (https://pgarias-bucket-cloud.s3.us-east-2.amazonaws.com/311_Service_Requests_from_2015_to_Present.csv). Sample extract of 1000 records can be accessed from (https://pgarias-bucket-cloud.s3.us-east-2.amazonaws.com/311_Service_Requests_from_2015_to_Present_head_1000.csv). The following details are extracted from the file post processing:
 
 1) Number of open, assigned and closed issues for the following 3 complaint types: 
   - Noise
