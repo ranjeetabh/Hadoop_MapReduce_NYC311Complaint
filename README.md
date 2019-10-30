@@ -5,7 +5,7 @@ This directory consists of the following files:
 1) complaint_count.py: Python map reduce script to calculate aggregate count of specific complaint types.
 2) average_count.py: Python map reduce script to calculate average of each complaint type per quarter FY 2017.
 3) illegal_parking_count.py: Python map reduce script to determine the borough having maximum number of illegal parking.
-4) Documentation: Relevant document of the project.
+4) HW2_Cloud_Computing: Relevant document of the project.
 5) Sample .mrjob.conf file: Sample configuration file for running job in Amazon EC2 hadoop cluster.
 
 
