@@ -17,14 +17,13 @@ This project aims to process NYC 311 Complaints data and answer some insightful 
   - Street Condition
   - Illegal Parking
   
-Answer: "Count of Noise_Complaints":  			      1771120
+Answer: 	    "Count of Noise_Complaints":  			1771120
 		    "Count of Illegal Parking Complaints":		561212
 		    "Count of Street Condition Complaints":		434132
         
 2) For the year 2017, for each quarter (Jan-Mar, April-June, July-Sept, Oct-Dec):
-  - Average number of the above complaints per month.
-  
-Answer: 
+
+Answer: Average number of the above complaints per month 
 
 - "Average number of noise complaints per month in Q1 (Jan - Mar)":	 		27964
 - "Average number of street complaints per month in Q1 (Jan - Mar)":			8581
@@ -40,9 +39,9 @@ Answer:
 - "Average number of illegal parking complaints per month in Q4 (Oct - Dec)"	:	12179
 
 3) For the year 2017, for each quarter (Jan-Mar, April-June, July-Sept, Oct-Dec):
-  - Borough with the highest number of illegal parking each quarter
+
+Answer:Borough with the highest number of illegal parking each quarter
   
- Answer:
  
 - "Highest number of illegal parking borough in Q1 (Jan-Mar)":		["BROOKLYN"]
 - "Highest number of illegal parking borough in Q2 (Apr-June)":		["BROOKLYN"]
